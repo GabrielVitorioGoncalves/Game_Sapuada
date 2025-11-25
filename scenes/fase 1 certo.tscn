@@ -67,7 +67,7 @@ offset_top = 1220.75
 offset_right = 346.0
 offset_bottom = 1256.75
 size_flags_horizontal = 0
-text = "Vidas: 💛💛💛💛💛"
+text = "Vidas: 5"
 label_settings = SubResource("LabelSettings_agey2")
 
 [node name="ScoreLabel" type="Label" parent="CanvasLayer"]

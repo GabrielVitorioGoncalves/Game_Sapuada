@@ -1,0 +1,42 @@
+res://assets/backgrounds/background.png::4c0b340f7783281f63585b400ce01981a6ff5448725049b3a341625d2857bc24::1761529884::res://.godot/exported/206107301/export-5df4ef741238e6b81563560dbc198308-background.res
+res://assets/backgrounds/game_over_background.png::e40f695a3055571aeea9c4375e47a961d268478eb37ea8ba0295c7bc5459f12f::1761525522::res://.godot/exported/206107301/export-bc302e528b23373ba94114a2a5ff8818-game_over_background.res
+res://assets/backgrounds/main.png::5e26855cbc469e9dc688a7d80068a95013e9fbd968bdb7350b115521698744f6::1761529623::res://.godot/exported/206107301/export-bb35438eb537e4f778a0814d8079ebce-main.res
+res://assets/backgrounds/pause_background.png::8f1312e174f47116a9791c291adb44efc99cc675eebed2d8db2d7f38d001f468::1761528152::res://.godot/exported/206107301/export-b655d48e3fbd4cad462c313fccf48873-pause_background.res
+res://assets/bee/bee_dead_1.png::4938fffdb66dfc6b82b8a4e59343778d616d28b410bfdf9d2d0da1eecb2d1a4a::1761249227::res://.godot/exported/206107301/export-e577bf01427bee1ff63ca076bbf90d3b-bee_dead_1.res
+res://assets/bee/bee_dead_2.png::7be5fb7fa00b19c5a332690d7bdbdcdf09f88f916e282e563bf4e0f275195b0a::1761249227::res://.godot/exported/206107301/export-d9364606d32a827bebbe2ae13c8ae063-bee_dead_2.res
+res://assets/bee/bee_move_1.png::73f1730ddc5e27c2e15fe0d3f5f1df57777c79c3553599d6e4739bb62504ee47::1761249227::res://.godot/exported/206107301/export-52ec83471830cae27668a33674f3c660-bee_move_1.res
+res://assets/bee/bee_move_2.png::bd8443958e875b3ce858c20b293cbad44a3bc2c01cb7627463406d95f2f65316::1761249227::res://.godot/exported/206107301/export-edd34e2fb20b603349978d48b0e15a7a-bee_move_2.res
+res://assets/bee/bee_move_3.png::77123afd409a024ac3ea5edfaf55d3adc705df70936ad27de17706168e91a5fa::1761249227::res://.godot/exported/206107301/export-2e87ed78a3444825e2045721e2c0b059-bee_move_3.res
+res://assets/cuspe/cuspe_1.png::be2d22f5b517af36ab72ba126fdd599c5c6b13e2651e44c57a539df4bcd8cc4d::1761253498::res://.godot/exported/206107301/export-5d05dce7515e73610e06d4c3ce29bb0d-cuspe_1.res
+res://assets/cuspe/cuspe_2.png::4ec20863c9d4d717c9cb103609bb37181181f7a332641153c7d4b240d8ff9332::1761253498::res://.godot/exported/206107301/export-edfecc0ef4eed51ba099c04192b338e0-cuspe_2.res
+res://assets/cuspe/cuspe_3.png::01183544ac02c6aacdc9998aa71b1af3bec2c6c1719764049a9b080b1cccf739::1761253498::res://.godot/exported/206107301/export-cd19d0eb4ff93fed2b57c0fdfab6c2d6-cuspe_3.res
+res://assets/cuspe/cuspe_4.png::89210133fba6d8b335698277762bf2fafa3a31028246798fd3f8dbfd5080cb4f::1761253498::res://.godot/exported/206107301/export-6681fef8d330e7f490e829f6bb826e64-cuspe_4.res
+res://assets/fonts/Retro Gaming.ttf::4c19fc875e7ba1e6831129de3ab5ac0bcd0ba1b24932ab944233da2704791986::1761249676::
+res://assets/frog/frog.png::4665b81eef1b2b73d4ec462b9dddeb23bebb3f617977068ffbc17ee73573cd08::1761521633::res://.godot/exported/206107301/export-637a8e99aadca4ba1a55e8a769cc63e0-frog.res
+res://assets/frog/frog_spitted_1.png::a800e30926d8f2a72fb141aad5ae5618d061a2a7be0103d8eb802d5758fe9951::1761536657::res://.godot/exported/206107301/export-ca3179178f3156875204e337cd92d598-frog_spitted_1.res
+res://assets/frog/frog_spitted_2.png::3c377ce66e461036d101cf291fadc35f3bd5d302619de2e7acbf3877388d183c::1761536685::res://.godot/exported/206107301/export-ac058d4bedeb67084721c3f79ded5878-frog_spitted_2.res
+res://assets/frog/Sapo.svg::3165157dd930a136cbd9aba6873c0688f7abbdc1383347e410b2addc2b1302b0::1761243661::res://.godot/exported/206107301/export-609eb5aba5dc432dabfa088e4b762acc-Sapo.res
+res://assets/menu/plate_menu_1.png::476e9ff8d64c5476b15b1ba7328148c2e41b45d9a095d0a9160c8490693d3257::1761269876::res://.godot/exported/206107301/export-3a32cce23b29cae2c3494bbafbc5a000-plate_menu_1.res
+res://assets/menu/plate_menu_2.png::4d2a62665109e7fd145567cf895051ef9cfc068094337057cd305a3352e9ebbd::1761269876::res://.godot/exported/206107301/export-61652e398f3195f44f705dd98edfd02a-plate_menu_2.res
+res://assets/menu/QRCode_Fácil.png::a97b25bf8ce0bec80864c929285334e17af1783a1e337ba81983392a44acaa5a::1761608827::res://.godot/exported/206107301/export-60902d0ef095665bdea00aa56c62f7ca-QRCode_Fácil.res
+res://assets/soundtrack/background_fase.mp3::28ec189638e27b1cd60fb6baa4d6bec95da57524f42bcea5a67285198ee3bac2::1761532247::
+res://assets/soundtrack/background_gameover.mp3::ca45ceb165f345d3c31b70358ec010ff0d3e68e0e26f04fc2dae249ffebdd274::1761532247::
+res://assets/soundtrack/background_menu.mp3::d767ed0c2d99bc163f9c81d7fd777b6f24f144728c7d314ab52a6763040b2b3c::1761532247::
+res://assets/soundtrack/bee_hitted.mp3::a1cc6b24d0651ca2420b8cc5a0702c1c3deb78d9446d751cc2f91d052d5b2432::1761532247::
+res://assets/soundtrack/frog_gameover.mp3::2f3042fb4d2405e457eb4e77984e6d3d62307344046c6df10ed33af20d6cbfc1::1761532247::
+res://assets/soundtrack/frog_hitted.mp3::5c338f8ca6c4951c383d640a906d8248f0d4f08564881510b4708771b6a87f3a::1761532247::
+res://assets/soundtrack/frog_spit.mp3::e0b0552dd843d255fa8557964392c6fb3267dfa8f34549f46c8ca2d867ab5805::1761532247::
+res://assets/soundtrack/select_button.mp3::2d860af9c2665454a3f6618325314fc87ab09232491b599d007fb07f797ebb5e::1761532247::
+res://Build Web/Build v1.0.0.0/Sapuada.apple-touch-icon.png::041c32093ea502e72eb36805f51924e2691bc5ddbfaa2cca8fc4cdf5a2164588::1761609390::res://.godot/exported/206107301/export-2aa175aadba0c1d9e3b12426234f3203-Sapuada.apple-touch-icon.res
+res://Build Web/Build v1.0.0.0/Sapuada.icon.png::a7db41b0fbef7a243ede1f930a87dc0a98efe022594e7549229a07bc59cd74e2::1761609390::res://.godot/exported/206107301/export-593379213a2052902e20ae906e1ddc58-Sapuada.icon.res
+res://Build Web/Build v1.0.0.0/Sapuada.png::7e41bf3051b18e392a4bb6c0cc45cd7c397a59809a0071bc75f82183d1025029::1761609390::res://.godot/exported/206107301/export-85fca0cc790161ea911dacfd47d3d3e8-Sapuada.res
+res://scenes/bolas.tscn::f66645cd97db0dcb4db349439768a57e::1761538514::res://.godot/exported/206107301/export-52d14b6b240f6ae4b699fca359b13b2c-bolas.scn
+res://scenes/fase 1 certo.tscn::56113e5c15945fa9f48ede47f24d9122::1761538514::res://.godot/exported/206107301/export-f2c4e1019068f6735b52bf2af6825890-fase 1 certo.scn
+res://scenes/game_over_screen.tscn::c8f15e0cd2faa8937d0e2a8e330bda6e::1761608929::res://.godot/exported/206107301/export-e22825d93e7ddd42eb50ee3deead56b6-game_over_screen.scn
+res://scenes/lingua.tscn::25a226077d8f37e07862e3072b3d3ec1::1761538514::res://.godot/exported/206107301/export-b47155096fd90d0c1b6283b7b229c1cc-lingua.scn
+res://scenes/menu.tscn::63448345dcbd20887e5f016fbb1d5c4e::1761538514::res://.godot/exported/206107301/export-1ce5c86e8ca186dcaaeaa8726f1268db-menu.scn
+res://scenes/pause_menu.tscn::2fd37d9c2608ccf24524b23af17f07dc::1761538514::res://.godot/exported/206107301/export-ca2c2284eb591e72162d67219a0d2f87-pause_menu.scn
+res://scenes/sapo.tscn::a155287d241be7833197613a5815c7ab::1761538515::res://.godot/exported/206107301/export-e07563e1d801f01e4857bfa9305a39d0-sapo.scn
+res://Tema/pause_menu.tres::ee7a6b8b8139662bae468d0affc8c2c4::1761243661::res://.godot/exported/206107301/export-7757efacbd4d38c91ca35626ff69257f-pause_menu.res
+res://Icon.png::1a21790a5d6a47a1041cfd46b8ecab4fa6037df4145f970f00cfe55ee98dd576::1761592128::res://.godot/exported/206107301/export-33e63688031d53466d4d656c73cf10ca-Icon.res
+res://pause.gdshader::ac3d5424f215e731103fe707f515f483::1761608929::

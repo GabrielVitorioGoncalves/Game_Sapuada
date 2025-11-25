@@ -22,3 +22,7 @@ func _on_exit_button_pressed() -> void:
 
 func setup(score: int):
 	score_label.text = "SCORE: %d" % score
+
+
+func _on_link_button_pressed() -> void:
+	OS.shell_open("forms.gle/uzhTSDLrPn6s38Br6")

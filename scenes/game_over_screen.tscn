@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=3 uid="uid://bqiqgr04awesv"]
+[gd_scene load_steps=9 format=3 uid="uid://bqiqgr04awesv"]
 
 [ext_resource type="Script" uid="uid://dy86d3lb2a3mv" path="res://scripts/GameOver.gd" id="1_61w2s"]
 [ext_resource type="FontFile" uid="uid://drapyqg6uu0ga" path="res://assets/fonts/Retro Gaming.ttf" id="2_jw6e5"]
@@ -6,6 +6,7 @@
 [ext_resource type="Texture2D" uid="uid://jfdvavo8mdjd" path="res://assets/menu/plate_menu_1.png" id="4_wa2qn"]
 [ext_resource type="Theme" uid="uid://bioe35ttt2ys0" path="res://Tema/pause_menu.tres" id="5_cyfkl"]
 [ext_resource type="AudioStream" uid="uid://wur8gb3xen1s" path="res://assets/soundtrack/background_gameover.mp3" id="6_5i0af"]
+[ext_resource type="Texture2D" uid="uid://w86dnn7lhqe8" path="res://assets/menu/QRCode_Fácil.png" id="6_nh6my"]
 [ext_resource type="AudioStream" uid="uid://cslsb6w827ql3" path="res://assets/soundtrack/select_button.mp3" id="7_nh6my"]
 
 [node name="game_over" type="Control"]
@@ -75,9 +76,9 @@ offset_right = 357.0
 offset_bottom = 149.0
 theme = ExtResource("5_cyfkl")
 theme_type_variation = &"FlatButton"
+theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_colors/font_hover_color = Color(0.945098, 0.854902, 0.509804, 1)
 theme_override_colors/font_outline_color = Color(0.282353, 0.196078, 0.113725, 1)
-theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_fonts/font = ExtResource("2_jw6e5")
 theme_override_font_sizes/font_size = 32
 text = "TENTAR NOVAMENTE"
@@ -94,9 +95,9 @@ offset_right = 356.0
 offset_bottom = 151.0
 theme = ExtResource("5_cyfkl")
 theme_type_variation = &"FlatButton"
+theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_colors/font_hover_color = Color(0.945098, 0.854902, 0.509804, 1)
 theme_override_colors/font_outline_color = Color(0.282353, 0.196078, 0.113725, 1)
-theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_fonts/font = ExtResource("2_jw6e5")
 theme_override_font_sizes/font_size = 32
 text = "VOLTAR AO MENU"
@@ -113,12 +114,38 @@ offset_right = 357.0
 offset_bottom = 147.0
 theme = ExtResource("5_cyfkl")
 theme_type_variation = &"FlatButton"
+theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_colors/font_hover_color = Color(0.945098, 0.854902, 0.509804, 1)
 theme_override_colors/font_outline_color = Color(0.282353, 0.196078, 0.113725, 1)
-theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_fonts/font = ExtResource("2_jw6e5")
 theme_override_font_sizes/font_size = 32
 text = "SAIR DO JOGO"
+
+[node name="GameOverTitle" type="Label" parent="GameOverScreen"]
+offset_left = 20.0
+offset_top = 532.0
+offset_right = 1118.0
+offset_bottom = 617.0
+theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
+theme_override_colors/font_outline_color = Color(0.282353, 0.196078, 0.113725, 1)
+theme_override_fonts/font = ExtResource("2_jw6e5")
+theme_override_font_sizes/font_size = 28
+text = "Convidamos você a dar o seu feedback, apreciamos a atenção!!
+forms.gle/uzhTSDLrPn6s38Br6"
+horizontal_alignment = 1
+
+[node name="LinkButton" type="LinkButton" parent="GameOverScreen/GameOverTitle"]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.0
+anchor_bottom = 0.87100005
+offset_right = 8.0
+offset_bottom = -0.035003662
+
+[node name="QrCodeFácil" type="Sprite2D" parent="GameOverScreen"]
+position = Vector2(1024, 425.00003)
+scale = Vector2(0.18648368, 0.18648368)
+texture = ExtResource("6_nh6my")
 
 [node name="Background" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("6_5i0af")
@@ -132,3 +159,4 @@ parameters/looping = false
 [connection signal="pressed" from="GameOverScreen/VBoxContainer/RestartPlate/RestartButton" to="." method="_on_restart_button_pressed"]
 [connection signal="pressed" from="GameOverScreen/VBoxContainer/MenuPlate/MenuButton" to="." method="_on_menu_button_pressed"]
 [connection signal="pressed" from="GameOverScreen/VBoxContainer/ExitPlate/ExitButton" to="." method="_on_exit_button_pressed"]
+[connection signal="pressed" from="GameOverScreen/GameOverTitle/LinkButton" to="." method="_on_link_button_pressed"]
