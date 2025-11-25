@@ -141,6 +141,7 @@ anchor_right = 1.0
 anchor_bottom = 0.87100005
 offset_right = 8.0
 offset_bottom = -0.035003662
+uri = "https://docs.google.com/forms/d/e/1FAIpQLSefCag_M9zCzHbcOQ_Wbmj6WBTEMlf91Pm6gZA3-Q7acL8y6w/viewform"
 
 [node name="QrCodeFácil" type="Sprite2D" parent="GameOverScreen"]
 position = Vector2(1024, 425.00003)
