@@ -1,14 +1,16 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1761592137
-Icon.png::CompressedTexture2D::3858480882097881642::1761592128::1761592137::1::::<><><>0<>0<>f67de32e0e5f94329dd5e93301c6cdd1<>res://.godot/imported/Icon.png-33e63688031d53466d4d656c73cf10ca.ctex::
-pause.gdshader::Shader::1678213860268766917::1761538604::0::1::::<><><>0<>0<><>::
+::res://::1764089717
+export_presets.cfg::TextFile::-1::1764089717::0::1::::<><><>0<>0<><>::
+Icon.png::CompressedTexture2D::3589643553111313391::1761592128::1761606686::1::::<><><>0<>0<>a6037df4145f970f00cfe55ee98dd576<>res://.godot/imported/Icon.png-33e63688031d53466d4d656c73cf10ca.ctex::
+pause.gdshader::Shader::1678213860268766917::1764089508::0::1::::<><><>0<>0<><>::
 README.md::TextFile/TextFile::-1::1761243661::0::1::::<><><>0<>0<><>::
 ::res://assets/::1761530793
-::res://assets/backgrounds/::1761530795
+::res://assets/backgrounds/::1764088100
 background.png::CompressedTexture2D/CompressedTexture2D::9075891004104289014::1761529884::1761530795::1::::<><><>0<>0<>a6ff5448725049b3a341625d2857bc24<>res://.godot/imported/background.png-5df4ef741238e6b81563560dbc198308.ctex::
 game_over_background.png::CompressedTexture2D/CompressedTexture2D::1063367316659914304::1761525522::1761530795::1::::<><><>0<>0<>d268478eb37ea8ba0295c7bc5459f12f<>res://.godot/imported/game_over_background.png-bc302e528b23373ba94114a2a5ff8818.ctex::
 main.png::CompressedTexture2D/CompressedTexture2D::3492726589910103285::1761529623::1761530795::1::::<><><>0<>0<>13e9fbd968bdb7350b115521698744f6<>res://.godot/imported/main.png-bb35438eb537e4f778a0814d8079ebce.ctex::
 pause_background.png::CompressedTexture2D/CompressedTexture2D::8690180165734985344::1761528152::1761530795::1::::<><><>0<>0<>c99cc675eebed2d8db2d7f38d001f468<>res://.godot/imported/pause_background.png-b655d48e3fbd4cad462c313fccf48873.ctex::
+pause_background_banner.png::CompressedTexture2D::4540793575182786197::1762725025::1764088100::1::::<><><>0<>0<>b030a3d53c50e6b4da7bc61a76d7d20c<>res://.godot/imported/pause_background_banner.png-ff57535c18b4f56d58c7fc177149a010.ctex::
 ::res://assets/bee/::1761249227
 bee_dead_1.png::CompressedTexture2D/CompressedTexture2D::15598675687185823::1761249227::1761249227::1::::<><><>0<>0<>616d28b410bfdf9d2d0da1eecb2d1a4a<>res://.godot/imported/bee_dead_1.png-e577bf01427bee1ff63ca076bbf90d3b.ctex::
 bee_dead_2.png::CompressedTexture2D/CompressedTexture2D::6431588417415180374::1761249227::1761249227::1::::<><><>0<>0<>09f88f916e282e563bf4e0f275195b0a<>res://.godot/imported/bee_dead_2.png-d9364606d32a827bebbe2ae13c8ae063.ctex::
@@ -27,9 +29,10 @@ frog.png::CompressedTexture2D/CompressedTexture2D::1118489151961385245::17615216
 frog_spitted_1.png::CompressedTexture2D/CompressedTexture2D::7296537953758982517::1761536657::1761536669::1::::<><><>0<>0<>d061a2a7be0103d8eb802d5758fe9951<>res://.godot/imported/frog_spitted_1.png-ca3179178f3156875204e337cd92d598.ctex::
 frog_spitted_2.png::CompressedTexture2D/CompressedTexture2D::1388996785168109019::1761536685::1761536685::1::::<><><>0<>0<>3bd5d302619de2e7acbf3877388d183c<>res://.godot/imported/frog_spitted_2.png-ac058d4bedeb67084721c3f79ded5878.ctex::
 Sapo.svg::CompressedTexture2D/CompressedTexture2D::5238240005585136355::1761243661::1761530762::1::::<><><>0<>0<>f7abbdc1383347e410b2addc2b1302b0<>res://.godot/imported/Sapo.svg-609eb5aba5dc432dabfa088e4b762acc.ctex::
-::res://assets/menu/::1761530743
+::res://assets/menu/::1761608828
 plate_menu_1.png::CompressedTexture2D/CompressedTexture2D::642241167284455729::1761269876::1761530743::1::::<><><>0<>0<>e41b45d9a095d0a9160c8490693d3257<>res://.godot/imported/plate_menu_1.png-3a32cce23b29cae2c3494bbafbc5a000.ctex::
 plate_menu_2.png::CompressedTexture2D/CompressedTexture2D::1564765765144870581::1761269876::1761530742::1::::<><><>0<>0<>9cfc068094337057cd305a3352e9ebbd<>res://.godot/imported/plate_menu_2.png-61652e398f3195f44f705dd98edfd02a.ctex::
+QRCode_Fácil.png::CompressedTexture2D::1614167314433096465::1761608827::1761608828::1::::<><><>0<>0<>7af1783a1e337ba81983392a44acaa5a<>res://.godot/imported/QRCode_Fácil.png-60902d0ef095665bdea00aa56c62f7ca.ctex::
 ::res://assets/soundtrack/::1761532247
 background_fase.mp3::AudioStreamMP3/AudioStreamMP3::3236137427941251229::1761532247::1761532247::1::::<><><>0<>0<>5da57524f42bcea5a67285198ee3bac2<>res://.godot/imported/background_fase.mp3-f514a1dce0a13701fe2c165d42160666.mp3str::
 background_gameover.mp3::AudioStreamMP3/AudioStreamMP3::1586533553181805450::1761532247::1761532247::1::::<><><>0<>0<>0d3e68e0e26f04fc2dae249ffebdd274<>res://.godot/imported/background_gameover.mp3-79f080bdc230b606ba35392fc2540586.mp3str::
@@ -39,24 +42,41 @@ frog_gameover.mp3::AudioStreamMP3/AudioStreamMP3::345157194720167011::1761532247
 frog_hitted.mp3::AudioStreamMP3/AudioStreamMP3::8688839460526136168::1761532247::1761532247::1::::<><><>0<>0<>f0d4f08564881510b4708771b6a87f3a<>res://.godot/imported/frog_hitted.mp3-1fafa865f6f2dbb8fc85bd7de877fcba.mp3str::
 frog_spit.mp3::AudioStreamMP3/AudioStreamMP3::2684443413444783459::1761532247::1761532247::1::::<><><>0<>0<>3267dfa8f34549f46c8ca2d867ab5805<>res://.godot/imported/frog_spit.mp3-fe382d268446125c90c8069017851b87.mp3str::
 select_button.mp3::AudioStreamMP3/AudioStreamMP3::6060045063575422114::1761532247::1761532247::1::::<><><>0<>0<>7ab09232491b599d007fb07f797ebb5e<>res://.godot/imported/select_button.mp3-9fbad703bbcdcd0318b6f21419ec36d0.mp3str::
+::res://Build Web/::1764089086
+::res://Build Web/Build v1.0.0.0/::1761609423
+Sapuada.apple-touch-icon.png::CompressedTexture2D::3023519009385109673::1761609390::1761609423::1::::<><><>0<>0<>691bc5ddbfaa2cca8fc4cdf5a2164588<>res://.godot/imported/Sapuada.apple-touch-icon.png-2aa175aadba0c1d9e3b12426234f3203.ctex::
+Sapuada.icon.png::CompressedTexture2D::981618901965231148::1761609390::1761609423::1::::<><><>0<>0<>98efe022594e7549229a07bc59cd74e2<>res://.godot/imported/Sapuada.icon.png-593379213a2052902e20ae906e1ddc58.ctex::
+Sapuada.png::CompressedTexture2D::7722713771162847346::1761609390::1761609423::1::::<><><>0<>0<>397a59809a0071bc75f82183d1025029<>res://.godot/imported/Sapuada.png-85fca0cc790161ea911dacfd47d3d3e8.ctex::
+::res://Build Web/Build v1.0.0.1/::1762724386
+index.apple-touch-icon.png::CompressedTexture2D::3227127806440457701::1761773024::1761771746::1::::<><><>0<>0<>d7836254c0392a6af9ea08f98f37859b<>res://.godot/imported/index.apple-touch-icon.png-96d439a12329d399c757da2afa3ba84a.ctex::
+index.icon.png::CompressedTexture2D::7565195146609700770::1761773024::1761771746::1::::<><><>0<>0<>3121753742de48813c468c8f09a6e31b<>res://.godot/imported/index.icon.png-6cb14d029d0e006548678d75262fe181.ctex::
+index.png::CompressedTexture2D::5836098795038028040::1761773024::1761771746::1::::<><><>0<>0<>b6a75c408d811dd2206d0c8c83c3291b<>res://.godot/imported/index.png-fc97b97ce9f31da2c419e0fc56c67eb1.ctex::
+::res://Build Web/Build v1.0.0.2/::1764089716
+index.apple-touch-icon.png::CompressedTexture2D::560236293127572527::1764089716::1764089438::1::::<><><>0<>0<>46d0a82d96432f02704d398227b6ef56<>res://.godot/imported/index.apple-touch-icon.png-47685a675285ff58c8544df98b06b1fb.ctex::
+index.icon.png::CompressedTexture2D::5495517263316898362::1764089716::1764089741::1::::<><><>0<>0<>a550c4a1255abae666df0fe68c0d5cb7<>res://.godot/imported/index.icon.png-5d761b0167e3b16d4ca849571aeab74e.ctex::
+index.png::CompressedTexture2D::1856914582415449293::1764089716::1764089438::1::::<><><>0<>0<>560ffa5944e170d577de13978a55c306<>res://.godot/imported/index.png-8b0aa8a424c7da558718aa51f408c291.ctex::
+::res://Build Windows/::1764089176
+::res://Build Windows/Build v1.0.0.0/::1761609133
+::res://Build Windows/Build v1.0.0.1/::1762724293
+::res://Build Windows/Build V1.0.0.2/::1764089116
 ::res://sapuada/::1761243661
 README.md::TextFile/TextFile::-1::1761243661::0::1::::<><><>0<>0<><>::
-::res://scenes/::1761538515
+::res://scenes/::1764089704
 bolas.tscn::PackedScene::3839918539591538096::1761538514::0::1::::<><><>0<>0<><>::uid://r34l2q2iy6nt::::res://scripts/bolas.gd<>uid://d1wu6hcp8cggk::::res://assets/bee/bee_move_1.png<>uid://hs54sqintdf::::res://assets/bee/bee_dead_1.png<>uid://dnmhgxvqal37m::::res://assets/bee/bee_move_2.png<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf
-fase 1 certo.tscn::PackedScene::4238108587249775091::1761538514::0::1::::<><><>0<>0<><>::uid://p1bxx5kqgr2t::::res://scripts/fase_1.gd<>uid://b4gbywbosltb::::res://scenes/sapo.tscn<>uid://buyc5rktwafcy::::res://scenes/bolas.tscn<>uid://d2koumissd8o5::::res://assets/backgrounds/background.png<>uid://b7sin38vqkeey::::res://scripts/path_circular.gd<>uid://wj8p03355nbp::::res://assets/menu/plate_menu_2.png<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf<>uid://bmduyfqx6mbdd::::res://assets/soundtrack/background_fase.mp3<>uid://c0e18f6v11wjl::::res://assets/soundtrack/bee_hitted.mp3<>uid://dv166for4pyxs::::res://assets/soundtrack/frog_hitted.mp3<>uid://e6gxn8rp6io6::::res://assets/soundtrack/frog_gameover.mp3
-game_over_screen.tscn::PackedScene::3526940323417350297::1761538515::0::1::::<><><>0<>0<><>::uid://dy86d3lb2a3mv::::res://scripts/GameOver.gd<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf<>uid://pfdrfa2ax6bk::::res://assets/backgrounds/game_over_background.png<>uid://jfdvavo8mdjd::::res://assets/menu/plate_menu_1.png<>uid://bioe35ttt2ys0::::res://Tema/pause_menu.tres<>uid://wur8gb3xen1s::::res://assets/soundtrack/background_gameover.mp3<>uid://cslsb6w827ql3::::res://assets/soundtrack/select_button.mp3
+fase 1 certo.tscn::PackedScene::4238108587249775091::1764088867::0::1::::<><><>0<>0<><>::uid://p1bxx5kqgr2t::::res://scripts/fase_1.gd<>uid://b4gbywbosltb::::res://scenes/sapo.tscn<>uid://buyc5rktwafcy::::res://scenes/bolas.tscn<>uid://d2koumissd8o5::::res://assets/backgrounds/background.png<>uid://b7sin38vqkeey::::res://scripts/path_circular.gd<>uid://wj8p03355nbp::::res://assets/menu/plate_menu_2.png<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf<>uid://bmduyfqx6mbdd::::res://assets/soundtrack/background_fase.mp3<>uid://c0e18f6v11wjl::::res://assets/soundtrack/bee_hitted.mp3<>uid://dv166for4pyxs::::res://assets/soundtrack/frog_hitted.mp3<>uid://e6gxn8rp6io6::::res://assets/soundtrack/frog_gameover.mp3
+game_over_screen.tscn::PackedScene::3526940323417350297::1764089702::0::1::::<><><>0<>0<><>::uid://dy86d3lb2a3mv::::res://scripts/GameOver.gd<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf<>uid://pfdrfa2ax6bk::::res://assets/backgrounds/game_over_background.png<>uid://jfdvavo8mdjd::::res://assets/menu/plate_menu_1.png<>uid://bioe35ttt2ys0::::res://Tema/pause_menu.tres<>uid://wur8gb3xen1s::::res://assets/soundtrack/background_gameover.mp3<>uid://w86dnn7lhqe8::::res://assets/menu/QRCode_Fácil.png<>uid://cslsb6w827ql3::::res://assets/soundtrack/select_button.mp3
 lingua.tscn::PackedScene::7304259298684427352::1761538514::0::1::::<><><>0<>0<><>::uid://q0ccqcat5dgs::::res://scripts/lingua.gd<>uid://c4llsajf5bl4j::::res://assets/cuspe/cuspe_1.png<>uid://hjk2sjot2p0a::::res://assets/cuspe/cuspe_2.png<>uid://djverps7hxqce::::res://assets/cuspe/cuspe_3.png<>uid://dcr3ahwa3d8ge::::res://assets/cuspe/cuspe_4.png
-menu.tscn::PackedScene::6125958466594039361::1761538514::0::1::::<><><>0<>0<><>::uid://80qy5f1cllx1::::res://scripts/menu.gd<>uid://bp05xxk25g55r::::res://assets/backgrounds/main.png<>uid://wj8p03355nbp::::res://assets/menu/plate_menu_2.png<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf<>uid://jfdvavo8mdjd::::res://assets/menu/plate_menu_1.png<>uid://bioe35ttt2ys0::::res://Tema/pause_menu.tres<>uid://ciyhdmp2nb4vb::::res://assets/soundtrack/background_menu.mp3<>uid://cslsb6w827ql3::::res://assets/soundtrack/select_button.mp3
+menu.tscn::PackedScene::6125958466594039361::1764089704::0::1::::<><><>0<>0<><>::uid://80qy5f1cllx1::::res://scripts/menu.gd<>uid://bp05xxk25g55r::::res://assets/backgrounds/main.png<>uid://wj8p03355nbp::::res://assets/menu/plate_menu_2.png<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf<>uid://jfdvavo8mdjd::::res://assets/menu/plate_menu_1.png<>uid://bioe35ttt2ys0::::res://Tema/pause_menu.tres<>uid://ciyhdmp2nb4vb::::res://assets/soundtrack/background_menu.mp3<>uid://cslsb6w827ql3::::res://assets/soundtrack/select_button.mp3
 pause_menu.tscn::PackedScene::6776907953825735890::1761538514::0::1::::<><><>0<>0<><>::uid://ce75pt6br386w::::res://scripts/pause_menu.gd<>uid://bioe35ttt2ys0::::res://Tema/pause_menu.tres<>uid://dv2t86k0vc71m::::res://assets/backgrounds/pause_background.png<>uid://jfdvavo8mdjd::::res://assets/menu/plate_menu_1.png<>uid://drapyqg6uu0ga::::res://assets/fonts/Retro Gaming.ttf<>uid://wur8gb3xen1s::::res://assets/soundtrack/background_gameover.mp3<>uid://cslsb6w827ql3::::res://assets/soundtrack/select_button.mp3
-sapo.tscn::PackedScene::130423180867235139::1761538515::0::1::::<><><>0<>0<><>::uid://p62l88fa3rij::::res://assets/frog/frog.png<>uid://ceej8to5vvee2::::res://scripts/sapo.gd<>uid://beimnj1xj0t4f::::res://assets/soundtrack/frog_spit.mp3
-::res://scripts/::1761591041
+sapo.tscn::PackedScene::130423180867235139::1761773010::0::1::::<><><>0<>0<><>::uid://p62l88fa3rij::::res://assets/frog/frog.png<>uid://ceej8to5vvee2::::res://scripts/sapo.gd<>uid://beimnj1xj0t4f::::res://assets/soundtrack/frog_spit.mp3
+::res://scripts/::1764089702
 bolas.gd::GDScript/GDScript::1252794799569156841::1761264443::0::1::::MathBall<>Area2D<><>0<>0<><>::
-fase_1.gd::GDScript::1106609521285796829::1761591041::0::1::::<>Node2D<><>0<>0<><>::
-GameOver.gd::GDScript::8913807836161729965::1761538265::0::1::::<>Control<><>0<>0<><>::
+fase_1.gd::GDScript::1106609521285796829::1764088867::0::1::::<>Node2D<><>0<>0<><>::
+GameOver.gd::GDScript::8913807836161729965::1764089702::0::1::::<>Control<><>0<>0<><>::
 lingua.gd::GDScript/GDScript::1174756791123139594::1761255533::0::1::::<>Area2D<><>0<>0<><>::
-menu.gd::GDScript/GDScript::2368857199453509964::1761532810::0::1::::<>Control<><>0<>0<><>::
+menu.gd::GDScript::2368857199453509964::1764088518::0::1::::<>Control<><>0<>0<><>::
 path_circular.gd::GDScript/GDScript::4670132953554381536::1761246170::0::1::::<>Path2D<><>0<>1<><>::
 pause_menu.gd::GDScript::5121506172661694344::1761538265::0::1::::<>CanvasLayer<><>0<>0<><>::
-sapo.gd::GDScript::5062460658051201003::1761537321::0::1::::<>Node2D<><>0<>0<><>::
+sapo.gd::GDScript::5062460658051201003::1764088867::0::1::::<>Node2D<><>0<>0<><>::
 ::res://Tema/::1761243661
 pause_menu.tres::Theme/Theme::2977127197496141189::1761243661::0::1::::<><><>0<>0<><>::

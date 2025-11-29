@@ -23,3 +23,10 @@ unique_name_in_owner = true
 
 [node name="FrogSpit" type="AudioStreamPlayer" parent="."]
 stream = ExtResource("3_qp5ai")
+
+[node name="StunTimer" type="Timer" parent="."]
+wait_time = 10.0
+one_shot = true
+autostart = true
+
+[connection signal="timeout" from="StunTimer" to="." method="_on_stun_timer_timeout"]

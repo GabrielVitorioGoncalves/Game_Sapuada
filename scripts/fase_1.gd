@@ -30,20 +30,9 @@ var score: int = 0:
 var lives: int = 5: 
 	set(value):
 		lives = value
-		if lives == 5:
-			lives_label.text = "Vidas: 💛💛💛💛💛"
-		elif lives == 4:
-			lives_label.text = "Vidas: 💛💛💛💛"
-		elif lives == 3:
-			lives_label.text = "Vidas: 💛💛💛"
-		elif lives == 2:
-			lives_label.text = "Vidas: 💛💛"
-		else:
-			lives_label.text = "Vidas: 💛"
-			
-		# Se as vidas chegarem a 0, chama o game over
+		if lives_label:
+			lives_label.text = "Vidas: %d" % max(0, lives)
 		if lives <= 0 and not game_over:
-			lives_label.text = "Vidas: "
 			_game_over()
 
 func _gerar_produtos_validos_array() -> Array:
@@ -65,7 +54,6 @@ func _ready():
 		$ScoreTimer.timeout.connect(_on_score_timer_timeout)
 	await get_tree().create_timer(10.0).timeout
 	gerar_equacao_baseada_em_bolas()
-	
 
 func _update_difficulty():
 	@warning_ignore("integer_division")

@@ -1,1 +1,5 @@
-res://scripts/fase_1.gd
+res://scenes/menu.tscn
+res://pause.gdshader
+res://scenes/game_over_screen.tscn
+res://scripts/GameOver.gd
+res://scripts/menu.gd

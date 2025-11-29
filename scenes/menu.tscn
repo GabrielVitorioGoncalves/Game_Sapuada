@@ -74,9 +74,9 @@ grow_horizontal = 2
 grow_vertical = 2
 theme = ExtResource("6_13sgg")
 theme_type_variation = &"FlatButton"
+theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_colors/font_hover_color = Color(0.944048, 0.856514, 0.510839, 1)
 theme_override_colors/font_outline_color = Color(0.576471, 0.47451, 0.203922, 1)
-theme_override_colors/font_color = Color(0.85098, 0.737255, 0.294118, 1)
 theme_override_fonts/font = ExtResource("4_v86rl")
 theme_override_font_sizes/font_size = 48
 text = "QUIT"
@@ -100,9 +100,9 @@ grow_horizontal = 2
 grow_vertical = 2
 theme = ExtResource("6_13sgg")
 theme_type_variation = &"FlatButton"
+theme_override_colors/font_color = Color(0.858824, 0.741176, 0.317647, 1)
 theme_override_colors/font_hover_color = Color(0.944048, 0.856514, 0.510839, 1)
 theme_override_colors/font_outline_color = Color(0.576471, 0.47451, 0.203922, 1)
-theme_override_colors/font_color = Color(0.858824, 0.741176, 0.317647, 1)
 theme_override_fonts/font = ExtResource("4_v86rl")
 theme_override_font_sizes/font_size = 64
 text = "START"
@@ -116,5 +116,32 @@ volume_db = -5.0
 autoplay = true
 parameters/looping = true
 
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 12.0
+offset_top = 558.0
+offset_right = 442.0
+offset_bottom = 641.0
+theme_override_colors/font_color = Color(0.945098, 0.854902, 0.509804, 1)
+theme_override_colors/font_outline_color = Color(0.85098, 0.737255, 0.294118, 1)
+theme_override_fonts/font = ExtResource("4_v86rl")
+theme_override_font_sizes/font_size = 37
+text = "De seu FeedBack!!!"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="LinkButton" type="LinkButton" parent="Label"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 8.0
+offset_right = 5.0
+offset_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+uri = "https://docs.google.com/forms/d/e/1FAIpQLSefCag_M9zCzHbcOQ_Wbmj6WBTEMlf91Pm6gZA3-Q7acL8y6w/viewform"
+
 [connection signal="pressed" from="VBoxContainer/ExitPlate/QuitButton" to="." method="_on_quit_button_pressed"]
 [connection signal="pressed" from="VBoxContainer/StartPlate/StartButton" to="." method="_on_start_button_pressed"]
+[connection signal="pressed" from="Label/LinkButton" to="." method="_on_link_button_pressed"]
